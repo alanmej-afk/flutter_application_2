@@ -1794,7 +1794,7 @@ menuAbierto=false;
           "nombre": "Juguete",
           "precio": "\$90",
           "imagen":
-              "https://image.made-in-china.com/251f0j00FYzRCgGsYthw/made-in-china.jpg",
+              "https://i5.walmartimages.com/asr/fd87a610-a9ec-4634-b1c6-2f72897cdc75.85bf760e0cf9792646f96e1c43f78da5.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
         },
 
         {
